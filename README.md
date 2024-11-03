@@ -2,6 +2,9 @@
 
 **NextJournal** is a modern blog platform developed using technologies such as **Next.js**, **React**, **TailwindCSS**, **Prisma**, **PostgreSQL**, **NextAuth.js**, and **TypeScript**. It provides a powerful full-stack application where users can view blog posts, create their own writings, and comment by logging in.
 
+> [!CAUTION]
+> **The project is currently under construction, so it is not yet usable. You can follow the developments by clicking the star icon in the top right corner to receive notifications.**
+
 ## **Table of Contents**
 - [Features](#features)
 - [Technologies Used](#technologies-used)
