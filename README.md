@@ -32,6 +32,8 @@
 - [Vercel](https://vercel.com/) - Hosting platform for the application
 - [TypeScript](https://www.typescriptlang.org/) - A language that adds type safety to JavaScript
 
+<!--
+
 ## **Installation**
 To run the project in your local environment, follow these steps:
 
@@ -89,3 +91,4 @@ To deploy this project on Vercel, follow Vercel's documentation:
 1. Create an account or log in to Vercel.
 2. Deploy your project to Vercel.
 3. Configure the environment variables in Vercel.
+-->
